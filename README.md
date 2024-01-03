@@ -1,6 +1,6 @@
 ##
 
-  ## Olá! Me chamo Wallace Petrik, sou um Desenvolvedor de Aplicativos Móveis.
+  ## Olá! Me chamo Wallace Petrik, sou um Desenvolvedor de Software.
 
 <div align="center" >
   <a href="[https://github.com/Wallace-petrik](https://github.com/Wallace-petrik)">
