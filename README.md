@@ -11,6 +11,7 @@
 ##
 
 <div align="center": style="display: inline_block"><br> 
+  <img align="center" alt="wallace" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="wallace" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 </div>
 
