@@ -1,8 +1,6 @@
 <h1 align="center">Olá! Me chamo Wallace Petrik, sou um Desenvolvedor de Software.</h1>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wallace-petrik&theme=tokyonight&hide_border=false" alt="Github Streak Stats" />
-  <img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Animated Image" width="150" />
+<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Animated Image" width="150" />
 </p>
 
 <h1></h1>
