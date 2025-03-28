@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Wallace Petrik, sou um Desenvolvedor de Software.</h1>
+<h1 align="center">Olá! Me chamo Wallace, sou um Desenvolvedor de Software.</h1>
 
 <div align="center" >
   
