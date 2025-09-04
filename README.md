@@ -5,7 +5,7 @@
 </div>
 <h1></h1>
 <div align="center": style="display: inline_block"><br> 
-  <img align="center" alt="wallace" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+  <img align="center" alt="wallace" height="40" width="40" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000">
 </div>
 <h1></h1>
 <div align="center"> 
